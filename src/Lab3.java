@@ -4,7 +4,7 @@ public class Lab3 {
         Person don = new Donut();
         Person nez = new Neznaika();
 
-        Thermostat therm = new Thermostat(1,0,10);
+        Tthermostat therm = new Thermostat(1,0,10);
         Rocket rocket = new Rocket();
 
         don.makeFriends(nez);
